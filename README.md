@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mallan26, Budding Developer 
+## 👋 Hi, I’m @mallan26, Budding Developer 😃 
 
 - 👀 I'm Currently working on "Point Of Sale - Billing Application"
 - 🌱 Looking for Job as Front-end Developer
@@ -16,4 +16,6 @@
 <img src="https://user-images.githubusercontent.com/81263900/112994017-6f5e5e00-9187-11eb-806c-2315624949fe.png" height="40" style="vertical-align:top; margin:4px" >
 <img src="https://user-images.githubusercontent.com/81263900/112993355-c152b400-9186-11eb-838d-a27b6a9dee08.png" height="40" style="vertical-align:top; margin:4px" >
 <img src="https://user-images.githubusercontent.com/81263900/112993207-936d6f80-9186-11eb-8b5b-623004a145a5.png" height="40" style="vertical-align:top; margin:4px" >
+<img src="https://user-images.githubusercontent.com/81263900/112997270-99fde600-918a-11eb-88fe-34dc527eb8e1.png" height="40" style="vertical-align:top; margin:4px" >
 </p>
+
