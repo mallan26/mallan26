@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @mallan26, Budding Developer 😃 
 
-- 👀 I'm currently working on the "Point Of Sale - Billing Application"
-- 🌱 Looking for Job as Front-end Developer
+- 👀  2 year experienced Front-end Developer
+- 🌱 Learn Everyday, Grow Everyday
 - 🎯 Next Goal - Learning Back-end(Node.Js, Express Js)
 - 👯 I’m looking to collaborate with individuals with similar skill sets
 - 📫 How to reach me: mallanpatil26@gmail.com
