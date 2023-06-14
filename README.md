@@ -1,6 +1,6 @@
-## 👋 Hi, I’m @mallan26, Budding Developer 😃 
+## 👋 Hi, I’m @mallan26, Software Developer 😃 
 
-- 👀  2 year experienced Front-end Developer
+- 👀  3+ years experienced Front-end Developer
 - 🌱 Learn Everyday, Grow Everyday
 - 🎯 Next Goal - Learning Back-end(Node.Js, Express Js)
 - 👯 I’m looking to collaborate with individuals with similar skill sets
@@ -19,3 +19,4 @@
 <img src="https://user-images.githubusercontent.com/81263900/112997270-99fde600-918a-11eb-88fe-34dc527eb8e1.png" height="40" style="vertical-align:top; margin:4px" >
 </p>
 
++
