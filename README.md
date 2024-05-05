@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m @mallan26, Software Developer 😃 
 
 - 👀  3+ years experienced Front-end Developer
+- Currently working on Vue.js and Exploring C#
 - 🌱 Learn Everyday, Grow Everyday
 - 🎯 Next Goal - Learning Back-end(Node.Js, Express Js)
 - 👯 I’m looking to collaborate with individuals with similar skill sets
